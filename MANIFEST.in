@@ -1,0 +1,5 @@
+global-include *.md
+global-include *.txt
+global-include *.png
+global-include *.css
+global-include *.html
